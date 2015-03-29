@@ -4,9 +4,11 @@ title: Punkcja
 permalink: /punkcja/
 ---
 
-## Logowanie do programu
+----------------------
 
-* * *
+# Logowanie do programu
+
+----------------------
 
 ![Przeglądarki]({{site.url}}/imgs/punkcja/1_20150329135051.png) ![IE]({{site.url}}/imgs/punkcja/2_20150329135051.png) [1][2]
 
@@ -26,17 +28,21 @@ Ciesz się programem.
 Uwaga!: Pamiętaj by ustawić bezpieczne hasło dostępu.
 Zmieniaj hasła nie rzadziej niż raz na dekadę ;)
 
-## Wylogowanie z programu
+----------------------
 
-* * *
+# Wylogowanie z programu
+
+----------------------
+
 ![Wylogowanie]({{site.url}}/imgs/punkcja/1_20150329135103.png) [5]Najedź na menu w prawym górnym rogu ekranu. 
 Kliknij w odpowiednią opcję.
 
 ![Wylogowanie]({{site.url}}/imgs/punkcja/2_20150329135106.png) [6]Pojawi się informacja o wylogowaniu.
 
 
+* * *
 
-## Zmiana hasła
+# Zmiana hasła
 
 * * *
 
@@ -48,8 +54,9 @@ Wpisz hasło dwukrotnie w odpowiednie pola.
  Pojawi się informacja o zmianie.
 
 
+* * *
 
-## Lista pacjentów
+# Lista pacjentów
 
 * * *
 
@@ -76,8 +83,9 @@ Po kliknięciu na tytule w nagłówku tabeli (np. na "Nazwisko i Imię", "PESEL"
 ![Patient]({{site.url}}/imgs/punkcja/5_20150329135123.png) [13]Otwarcie formularza odbywa się przez kliknięcie na pacjencie w tabeli.
 
 
+* * *
 
-## Pacjent: Kategoryzacja
+# Pacjent: Kategoryzacja
 
 * * *
 
