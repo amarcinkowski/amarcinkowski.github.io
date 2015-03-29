@@ -10,7 +10,7 @@ permalink: /punkcja/
 
 ----------------------
 
-![Przeglądarki]({{site.url}}/imgs/punkcja/1_20150329135051.png) ![IE]({{site.url}}/imgs/punkcja/2_20150329135051.png) [1][2]
+![Przeglądarki]({{site.url}}/imgs/punkcja/1_20150329135051.png) [1] ![IE]({{site.url}}/imgs/punkcja/2_20150329135051.png) [2]
 
 Otwórz swoją ulubioną przeglądarkę i wpisz adres strony.
 Ikona "kategoryzacja pielęgniarska" znajduję sie na "zawartości". <br>Można ją skopiować na pulpit.
