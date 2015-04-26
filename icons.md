@@ -6,7 +6,6 @@ permalink: /ikony/
 
 
 ![]({{site.url}}/imgs/icons/nurse.svg)
-![]({{site.url}}/imgs/icons/svg1
 ![]({{site.url}}/imgs/icons/svg1/antivirus.svg)
 ![]({{site.url}}/imgs/icons/svg1/baby137.svg)
 ![]({{site.url}}/imgs/icons/svg1/baby44.svg)
@@ -132,7 +131,6 @@ permalink: /ikony/
 ![]({{site.url}}/imgs/icons/svg1/upper2.svg)
 ![]({{site.url}}/imgs/icons/svg1/wound.svg)
 ![]({{site.url}}/imgs/icons/svg1/x14.svg)
-![]({{site.url}}/imgs/icons/svg2
 ![]({{site.url}}/imgs/icons/svg2/accessibility.svg)
 ![]({{site.url}}/imgs/icons/svg2/administration.svg)
 ![]({{site.url}}/imgs/icons/svg2/alternative-complementary.svg)
