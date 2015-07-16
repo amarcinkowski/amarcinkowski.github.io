@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Szpital w 3D"
+date:   2015-06-16 17:36:00
+categories: WSZ 
+---
+
+WSZ w 3D:
+[szpital]:    http://amarcinkowski.github.io/3d.html
