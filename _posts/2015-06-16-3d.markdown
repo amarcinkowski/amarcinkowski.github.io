@@ -5,7 +5,7 @@ date:   2015-06-16 17:36:00
 categories: WSZ 
 ---
 
-WSZ w 3D:
+Wojewódzki Szpital Zespolony w 3D:
 
 * [Pełnoekranowa animacja szpitala][szpital] - szpital w trójwymiarze
 
