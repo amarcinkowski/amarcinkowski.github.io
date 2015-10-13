@@ -7,8 +7,8 @@ categories: WSZ
 
 Nowy komputer, tj. najmocniejszy obecnie procesor i7 6700 z kartą graficzną GTX 960 znacznie przyspieszył renderowanie animacji szpitala (kilkukrotnie!). Teraz nie trzeba będzie zostawić komputera na tydzień lub dwa tylko całość idzie przez weekend.
 
-Niedługo wychodzi Ubuntu 15.10, zawierający sterowniki do karty sieciowej Aetheros Killer E2400 wbudowanej na płycie MSI H170 Gaming M3. Do tego czasu trzeba będzie kompilować sterowniki na 15.04 samemu:
-http://graymattercomputing.net/index.php/how-to/13-atheros-killer-e2400-on-ubuntu
+Niedługo wychodzi Ubuntu 15.10, zawierający sterowniki do karty sieciowej Aetheros Killer E2400 wbudowanej na płycie MSI H170 Gaming M3. Do tego czasu trzeba będzie kompilować sterowniki na 15.04 samemu [Aetheros e2400 on ubuntu](http://graymattercomputing.net/index.php/how-to/13-atheros-killer-e2400-on-ubuntu)
 
-Karta graficzna sprawia pewne problemy (nie działa 8*) na sterownikach standardowych nvidia w ubuntu, więc trzeba instalować sterowniki pobrane ze strony nvidia:
-http://www.askmetutorials.com/2015/01/install-uninstall-nvidia-driver-34058.htmlŻeby na tej karcie można było wejść w tryb `tty (ctrl+alt+f1) trzeba dodać `nomodeset` do `GRUB_CMDLINE_LINUX_DEFAULT=` w `/etc/default/grub` i zupdateować gruba komendą `sudo update-grub2`
+Do czasu update'u nowego MACa na firewallu działam na starym MACu (`sudo ifconfig eth0 down;sudo ifconfig eth0 hw address STARY_MAC; sudo ifconfig eth0 up;`).
+
+Karta graficzna sprawia pewne problemy (nie działa 8*) na sterownikach standardowych nvidia w ubuntu, więc trzeba instalować sterowniki pobrane ze strony nvidia [nvidia driver installation](http://www.askmetutorials.com/2015/01/install-uninstall-nvidia-driver-34058.html) Żeby na tej karcie można było wejść w tryb `tty` (ctrl+alt+f1) trzeba dodać `nomodeset` do `GRUB_CMDLINE_LINUX_DEFAULT=` w `/etc/default/grub` i zupdateować gruba komendą `sudo update-grub2`
