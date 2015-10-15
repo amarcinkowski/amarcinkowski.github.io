@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Od renderingu do filmu"
+date:   2015-10-15 9:57:30
+categories: WSZ
+---
+
+W celu zbudowania filmu z licznych wyrenderowanych klatek używam:
+```ffmpeg -r 25 -pix_fmt yuv420p -i '%4d.png' -vcodec libx264 x.mp4```
+
+Tworzy plik x.mp4 (25 klatek/sek; codec x264) z wszystkich 00xx.png wygenerowanych przez Blender.
