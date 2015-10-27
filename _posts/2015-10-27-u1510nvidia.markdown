@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Ubuntu 15.10 i Blender 2.76"
+date:   2015-10-13 12:57:30
+categories: WSZ
+---
+Większa część animacji szpitala zostanie wyrenderowana na świeżutkim 15.10 (4 dni po premierze).
+
+Wyszedł Ubuntu 15.10 i nie muszę już kompilować jądra, żeby mieć sieć, ale do renderingu nadal potrzebne są sterowniki własnościowe NVidia. Na obecnym etapie instalacja wymaga dodatkowych kroków:
+
+wywalam stare sterowniki (jeśli zainstaloweane):
+```sudo apt-get remove nvidia* && sudo apt-get autoremove```
+dodaję potrzebne biblioteki (dkms niezbędny do instalacji nvidia drivers)
+```sudo apt-get install dkms fakeroot build-essential linux-headers-generic```
+reszta standardowo, w trybie tty wyłączyć iXy:
+```sudo service lightdm stop```
+i zainstalować sterowniki
+```sudo sh NVIDIA-Linux-x86_64.....run    (for Ubuntu 64bit)```
+obecna działająca u mnie wersja to 352.55.
+Po restarcie śmiga jak złoto.
