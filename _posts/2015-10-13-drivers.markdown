@@ -8,6 +8,22 @@ categories: WSZ
 Nowy komputer, tj. najmocniejszy obecnie procesor i7 6700 z kartą graficzną GTX 960 znacznie przyspieszył renderowanie animacji szpitala (kilkukrotnie!). Teraz nie trzeba będzie zostawić komputera na tydzień lub dwa tylko całość idzie przez weekend.
 
 Niedługo wychodzi Ubuntu 15.10, zawierający sterowniki do karty sieciowej Aetheros Killer E2400 wbudowanej na płycie MSI H170 Gaming M3. Do tego czasu trzeba będzie kompilować sterowniki na 15.04 samemu [Aetheros e2400 on ubuntu](http://graymattercomputing.net/index.php/how-to/13-atheros-killer-e2400-on-ubuntu)
+```
+git clone ubuntu-vivid sources
+cd ubuntu-vivid/drivers/net/ethernet/atheros/alx
+sudo make -C /lib/modules/$(uname -r)/build M=$(pwd) modules
+sudo make -C /lib/modules/$(uname -r)/build M=$(pwd) modules_install
+sudo modprobe -r alx
+sudo depmod
+sudo modprobe -v alx
+sudo ifconfig eth0 down
+sudo ifconfig eth0 hw ether ADDR 
+sudo ifconfig eth0 up
+echo 'GRUB_CMDLINE_LINUX_DEFAULT="nouveau.blacklist=1 quiet splash nomodeset" #(
+forces low-level graphics to ensure putty does not give black screen)'
+sudo gedit /etc/default/grub #change line "GRUB_CMDLINE_LINUX_DEFAULT..."-line t
+o```
+
 
 Do czasu update'u nowego MACa na firewallu działam na starym MACu (`sudo ifconfig eth0 down;sudo ifconfig eth0 hw address STARY_MAC; sudo ifconfig eth0 up;`).
 
