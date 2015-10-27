@@ -28,3 +28,5 @@ w sekcji nvidia linijkę
 28 = 16 (overvoltage gpu) + 8 (overclock gpu) + 4 (gpu fan speed)
 Na koniec restart Xów
 ```sudo service lightdm restart``` i można podkręcać w NVIDIA X Server Settings
+
+więcej na [How To Overclock New NVIDIA GPUs On Linux](http://www.phoronix.com/scan.php?px=MTY1OTM&page=news_item) i [Let's burn it](http://discourse.ubuntu.com/t/lets-burn-it-nvidia-overcloking-now-available-on-linux/1610)
