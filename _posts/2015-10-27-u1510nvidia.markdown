@@ -18,3 +18,13 @@ i zainstalować sterowniki
 ```sudo sh NVIDIA-Linux-x86_64.....run    (for Ubuntu 64bit)```
 obecna działająca u mnie wersja to 352.55.
 Po restarcie śmiga jak złoto.
+
+Aby umożliwić podkręcanie (szybszy rendering) i kontrolę obrotów chłodzenia należy utworzyć plik konfiguracji
+```sudo nvidia-xconfig```
+i dodać w pliku
+```sudo vi /etc/X11/xorg.conf```
+w sekcji nvidia linijkę
+```Option "Coolbits" "29"```
+28 = 16 (overvoltage gpu) + 8 (overclock gpu) + 4 (gpu fan speed)
+Na koniec restart Xów
+```sudo service lightdm restart``` i można podkręcać w NVIDIA X Server Settings
