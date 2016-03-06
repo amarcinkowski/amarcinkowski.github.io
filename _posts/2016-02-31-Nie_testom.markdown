@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dlaczego nie lubię ~~kolokwiów~~ ~~rozmów kwalifikacyjnych~~ testów kompetencyjnych"
-date:   2015-10-30 12:57:30
+date:   2016-02-31 12:57:30
 categories: Inne
 ---
 
