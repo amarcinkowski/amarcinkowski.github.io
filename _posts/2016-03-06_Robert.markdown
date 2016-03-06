@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zdjęcie Roba z użyciem neural-style / torch / lua"
+title:  "Zdjęcie Roba z użyciem neural-style &torch &lua"
 date:   2016-03-04 12:57:30
 categories: Inne
 ---
