@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Zdjęcie Roba z użyciem neural-style / torch / lua"
+date:   2016-03-04 12:57:30
+categories: Inne
+---
+
+| A + B | A | B |
+|----|----|-----|
+| ![escher_sphereA.png](escher_sphereA.png) | ![escher_sphere.jpg](escher_sphere.jpg) | ![robert.jpg](robert.jpg) |
+| ![frida_kahloA.png](frida_kahloA.png) | ![frida_kahlo.jpg](frida_kahlo.jpg) | ![robert.jpg](robert.jpg) |
+| ![klimtA.png](klimtA.png) | ![klimt.jpg](klimt.jpg) | ![robert.jpg](robert.jpg) |
+| ![les-demoiselles-avignon-A.png](les-demoiselles-avignon-A.png) | ![les-demoiselles-avignon.jpg](les-demoiselles-avignon.jpg) | ![robert.jpg](robert.jpg) |
+| ![Maryln_AndyWarholeA.png](Maryln_AndyWarholeA.png) | ![Maryln_AndyWarhole.jpg](Maryln_AndyWarhole.jpg) | ![robert.jpg](robert.jpg) |
+| ![picasso_selfport1907A.png](picasso_selfport1907A.png) | ![picasso_selfport1907.jpg](picasso_selfport1907.jpg) | ![robert.jpg](robert.jpg) |
+| ![starry_nightA.png](starry_nightA.png) | ![starry_night.jpg](starry_night.jpg) | ![robert.jpg](robert.jpg) | 
+| ![starry_nightB.png](starry_nightB.png) | ![starry_night.jpg](starry_night.jpg) | ![robert.jpg](robert.jpg) | 
+| ![the_screamA.png](the_screamA.png) | ![the_scream.jpg](the_scream.jpg) | ![robert.jpg](robert.jpg) | 
+| ![woman-with-hat-matisseA.png](woman-with-hat-matisseA.png) | ![woman-with-hat-matisse.jpg](woman-with-hat-matisse.jpg) | ![robert.jpg](robert.jpg) | 
