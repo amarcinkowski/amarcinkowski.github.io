@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dlaczego nie lubię ~~kolokwiów~~ ~~rozmów kwalifikacyjnych~~ testów kompetencyjnych"
+title:  "Dlaczego nie lubię kolokwiów, rozmów kwalifikacyjnych, testów kompetencyjnych"
 date:   2016-02-31 12:57:30
 categories: Inne
 ---
