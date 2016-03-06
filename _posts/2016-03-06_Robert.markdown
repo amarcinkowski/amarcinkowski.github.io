@@ -7,13 +7,13 @@ categories: Inne
 
 | A + B | A | B |
 |----|----|-----|
-| ![escher_sphereA.png](escher_sphereA.png) | ![escher_sphere.jpg](escher_sphere.jpg) | ![robert.jpg](robert.jpg) |
-| ![frida_kahloA.png](frida_kahloA.png) | ![frida_kahlo.jpg](frida_kahlo.jpg) | ![robert.jpg](robert.jpg) |
-| ![klimtA.png](klimtA.png) | ![klimt.jpg](klimt.jpg) | ![robert.jpg](robert.jpg) |
-| ![les-demoiselles-avignon-A.png](les-demoiselles-avignon-A.png) | ![les-demoiselles-avignon.jpg](les-demoiselles-avignon.jpg) | ![robert.jpg](robert.jpg) |
-| ![Maryln_AndyWarholeA.png](Maryln_AndyWarholeA.png) | ![Maryln_AndyWarhole.jpg](Maryln_AndyWarhole.jpg) | ![robert.jpg](robert.jpg) |
-| ![picasso_selfport1907A.png](picasso_selfport1907A.png) | ![picasso_selfport1907.jpg](picasso_selfport1907.jpg) | ![robert.jpg](robert.jpg) |
-| ![starry_nightA.png](starry_nightA.png) | ![starry_night.jpg](starry_night.jpg) | ![robert.jpg](robert.jpg) | 
-| ![starry_nightB.png](starry_nightB.png) | ![starry_night.jpg](starry_night.jpg) | ![robert.jpg](robert.jpg) | 
-| ![the_screamA.png](the_screamA.png) | ![the_scream.jpg](the_scream.jpg) | ![robert.jpg](robert.jpg) | 
-| ![woman-with-hat-matisseA.png](woman-with-hat-matisseA.png) | ![woman-with-hat-matisse.jpg](woman-with-hat-matisse.jpg) | ![robert.jpg](robert.jpg) | 
+| ![escher_sphereA.png](http://amarcinkowski.github.io/imgs/neural-style/escher_sphereA.png)) | ![escher_sphere.jpg](http://amarcinkowski.github.io/imgs/neural-style/escher_sphere.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) |
+| ![frida_kahloA.png](http://amarcinkowski.github.io/imgs/neural-style/frida_kahloA.png)) | ![frida_kahlo.jpg](http://amarcinkowski.github.io/imgs/neural-style/frida_kahlo.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) |
+| ![klimtA.png](http://amarcinkowski.github.io/imgs/neural-style/klimtA.png)) | ![klimt.jpg](http://amarcinkowski.github.io/imgs/neural-style/klimt.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) |
+| ![les-demoiselles-avignon-A.png](http://amarcinkowski.github.io/imgs/neural-style/les-demoiselles-avignon-A.png)) | ![les-demoiselles-avignon.jpg](http://amarcinkowski.github.io/imgs/neural-style/les-demoiselles-avignon.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) |
+| ![Maryln_AndyWarholeA.png](http://amarcinkowski.github.io/imgs/neural-style/Maryln_AndyWarholeA.png)) | ![Maryln_AndyWarhole.jpg](http://amarcinkowski.github.io/imgs/neural-style/Maryln_AndyWarhole.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) |
+| ![picasso_selfport1907A.png](http://amarcinkowski.github.io/imgs/neural-style/picasso_selfport1907A.png)) | ![picasso_selfport1907.jpg](http://amarcinkowski.github.io/imgs/neural-style/picasso_selfport1907.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) |
+| ![starry_nightA.png](http://amarcinkowski.github.io/imgs/neural-style/starry_nightA.png)) | ![starry_night.jpg](http://amarcinkowski.github.io/imgs/neural-style/starry_night.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) | 
+| ![starry_nightB.png](http://amarcinkowski.github.io/imgs/neural-style/starry_nightB.png)) | ![starry_night.jpg](http://amarcinkowski.github.io/imgs/neural-style/starry_night.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) | 
+| ![the_screamA.png](http://amarcinkowski.github.io/imgs/neural-style/the_screamA.png)) | ![the_scream.jpg](http://amarcinkowski.github.io/imgs/neural-style/the_scream.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) | 
+| ![woman-with-hat-matisseA.png](http://amarcinkowski.github.io/imgs/neural-style/woman-with-hat-matisseA.png)) | ![woman-with-hat-matisse.jpg](http://amarcinkowski.github.io/imgs/neural-style/woman-with-hat-matisse.jpg)) | ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert.jpg) | 
