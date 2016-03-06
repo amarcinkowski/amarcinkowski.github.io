@@ -9,15 +9,15 @@ Uruchomienie aplikacji [Neural Style](https://github.com/jcjohnson/neural-style)
 
 ![robert.jpg](http://amarcinkowski.github.io/imgs/neural-style/robert_big.jpg)
 
-| A + B | B |
+| A + B | B | Uwagi |
 |----|----|-----|
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/escher_sphereA.png" /> | ![escher_sphere.jpg](http://amarcinkowski.github.io/imgs/neural-style/escher_sphere.jpg) | 
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/frida_kahloA.png" /> | ![frida_kahlo.jpg](http://amarcinkowski.github.io/imgs/neural-style/frida_kahlo.jpg) | 
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/klimtA.png" /> | ![klimt.jpg](http://amarcinkowski.github.io/imgs/neural-style/klimt.jpg) | 
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/les-demoiselles-avignon-A.png" /> | ![les-demoiselles-avignon.jpg](http://amarcinkowski.github.io/imgs/neural-style/les-demoiselles-avignon.jpg) | 
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/Maryln_AndyWarholeA.png" /> | ![Maryln_AndyWarhole.jpg](http://amarcinkowski.github.io/imgs/neural-style/Maryln_AndyWarhole.jpg) | 
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/picasso_selfport1907A.png" /> | ![picasso_selfport1907.jpg](http://amarcinkowski.github.io/imgs/neural-style/picasso_selfport1907.jpg) | 
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/starry_nightA.png" /> | ![starry_night.jpg](http://amarcinkowski.github.io/imgs/neural-style/starry_night.jpg) |  
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/starry_nightB.png" /> | ![starry_night.jpg](http://amarcinkowski.github.io/imgs/neural-style/starry_night.jpg) |  
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/the_screamA.png" /> | ![the_scream.jpg](http://amarcinkowski.github.io/imgs/neural-style/the_scream.jpg) |  
-| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/woman-with-hat-matisseA.png" /> | ![woman-with-hat-matisse.jpg](http://amarcinkowski.github.io/imgs/neural-style/woman-with-hat-matisse.jpg) |  
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/escher_sphereA.png" /> | ![escher_sphere.jpg](http://amarcinkowski.github.io/imgs/neural-style/escher_sphere.jpg) | Maurits Cornelis Escher <br/>kula wykonana w Blenderze |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/frida_kahloA.png" /> | ![frida_kahlo.jpg](http://amarcinkowski.github.io/imgs/neural-style/frida_kahlo.jpg) | Frida Kahlo |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/klimtA.png" /> | ![klimt.jpg](http://amarcinkowski.github.io/imgs/neural-style/klimt.jpg) | Gustav Klimt |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/les-demoiselles-avignon-A.png" /> | ![les-demoiselles-avignon.jpg](http://amarcinkowski.github.io/imgs/neural-style/les-demoiselles-avignon.jpg) | Pablo Picasso les Demoiselles d’Avignon |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/Maryln_AndyWarholeA.png" /> | ![Maryln_AndyWarhole.jpg](http://amarcinkowski.github.io/imgs/neural-style/Maryln_AndyWarhole.jpg) | Andy Worhol |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/picasso_selfport1907A.png" /> | ![picasso_selfport1907.jpg](http://amarcinkowski.github.io/imgs/neural-style/picasso_selfport1907.jpg) | Picasso |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/starry_nightA.png" /> | ![starry_night.jpg](http://amarcinkowski.github.io/imgs/neural-style/starry_night.jpg) |  Van Gogh Starry Night |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/starry_nightB.png" /> | ![starry_night.jpg](http://amarcinkowski.github.io/imgs/neural-style/starry_night.jpg) |  Van Gogh |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/the_screamA.png" /> | ![the_scream.jpg](http://amarcinkowski.github.io/imgs/neural-style/the_scream.jpg) |  Edvard Munch *The Scream* |
+| <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/woman-with-hat-matisseA.png" /> | ![woman-with-hat-matisse.jpg](http://amarcinkowski.github.io/imgs/neural-style/woman-with-hat-matisse.jpg) | Matisse Woman With hat |
