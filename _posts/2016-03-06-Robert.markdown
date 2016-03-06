@@ -50,5 +50,6 @@ Neural-style + Gimp + Blender
 
 | <img style="width:512px;height:365px;" src="http://amarcinkowski.github.io/imgs/neural-style/czarnamadonnaA.png" /> | ![czarnamadonna](http://amarcinkowski.github.io/imgs/neural-style/czarnamadonna.jpg) |
 
+### Ubu 15.10 & neural-style
 
-Uruchomienie aplikacji [Neural Style](https://github.com/jcjohnson/neural-style) nie jest proste. Potrzeba lua, torch7, Ubuntu 15.10 ma domyślnie gcc i g++ w weersji nowszej niż 5, a działać będzie tylko z 4.9 lub wcześniejszą, trzeba też dodać cuda ze strony nvidia (~2GB). Podczas instalacji kilka razy napotyka się na różne trudności (m.in. po wykonaniu image trzeba jeszcze raz zrobić ```luarocks remove image --force; luarocks install image ```). Później trzeba doinstalować kilka bibliotek (```luarocks install cutorch;luarocks install cunn;``` etc.), i w końcu można się cieszyć aplikacją (np. ```th neural_style.lua -style_image examples/inputs/seated-nude.jpg -content_image examples/inputs/picasso_selfport1907.jpg```).
+Uruchomienie aplikacji [Neural Style](https://github.com/jcjohnson/neural-style) na Ubuntu 15.10: lua, torch7, domyślnie gcc i g++ w wersji 4.9 lub wcześniejszą, cuda ze strony nvidia (~2GB). ```luarocks remove image --force; luarocks install image ```, ```luarocks install cutorch;luarocks install cunn;``` etc., i można się cieszyć aplikacją (np. ```th neural_style.lua -style_image examples/inputs/seated-nude.jpg -content_image examples/inputs/picasso_selfport1907.jpg```).
