@@ -5,9 +5,13 @@ date:   2016-07-29 12:57:30
 categories: Inne
 ---
 
-Logo wykonane w Blenderze
+Logo Fundacji Innowacyjnych Przedsięwzięć Społecznych oraz Kancelarii
+
 ![fips]((http://amarcinkowski.github.io/imgs/fips.png)
+
 ![fipsa](https://www.youtube.com/watch?v=T1chvCm6LBI)
+
 ![kanc]((http://amarcinkowski.github.io/imgs/kanc.png)
+
 ![kanca](https://www.youtube.com/watch?v=Y07XLe16H8g)
 
