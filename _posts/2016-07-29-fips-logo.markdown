@@ -1,17 +1,13 @@
 ---
 layout: post
-title:  "FIPS i Kancelaria logo"
+title:  "Fundacja - logo"
 date:   2016-07-29 12:57:30
 categories: Inne
 ---
 
-Logo Fundacji Innowacyjnych Przedsięwzięć Społecznych oraz Kancelarii
+Logo Fundacji Innowacyjnych Przedsięwzięć Społecznych oraz Kancelarii (kliknięcie na logo otwiera animację na youtube)
 
-![fips](http://amarcinkowski.github.io/imgs/fips.png)
-
-[![fips](http://amarcinkowski.github.io/imgs/yt.png)](https://www.youtube.com/watch?v=T1chvCm6LBI)
-
-![kanc](http://amarcinkowski.github.io/imgs/kanc.png)
+[![fips](http://amarcinkowski.github.io/imgs/fips.png)](https://www.youtube.com/watch?v=T1chvCm6LBI)
 
 [![kanc](http://amarcinkowski.github.io/imgs/kanc.png)](https://www.youtube.com/watch?v=Y07XLe16H8g)
 
