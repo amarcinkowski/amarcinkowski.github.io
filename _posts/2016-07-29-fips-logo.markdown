@@ -7,11 +7,11 @@ categories: Inne
 
 Logo Fundacji Innowacyjnych Przedsięwzięć Społecznych oraz Kancelarii
 
-![fips]((http://amarcinkowski.github.io/imgs/fips.png)
+![fips](http://amarcinkowski.github.io/imgs/fips.png)
 
 ![fipsa](https://www.youtube.com/watch?v=T1chvCm6LBI)
 
-![kanc]((http://amarcinkowski.github.io/imgs/kanc.png)
+![kanc](http://amarcinkowski.github.io/imgs/kanc.png)
 
 ![kanca](https://www.youtube.com/watch?v=Y07XLe16H8g)
 
