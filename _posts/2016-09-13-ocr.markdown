@@ -5,16 +5,16 @@ date:   2016-09-13 12:57:30
 categories: Inne
 ---
 
-#Prepare 
+## Prepare 
 
-## APT GET
+### APT GET
 
 ```bash
 sudo apt-get install ocrfeeder 
 sudo apt-get install tesseract-ocr
 ```
 
-## Cropping examples
+### Cropping examples
 
 ```bash
 mogrify -format jpg -crop 3778x2002+2070+124 -quality 100 +repage *.png
@@ -22,49 +22,49 @@ mogrify -format jpg -crop 3778x2002+2070+124 -quality 100 -set 'x%d.jpg'  +repag
 mogrify -format jpg -crop 627x985 -quality 100 +repage *.jpg
 ```
 
-## Resize examples
+### Resize examples
 
 ```bash
 mogrify -resize 300% -format png *.jpg
 mogrify -format jpg -quality 60 -resize 50% *.bmp
 ```
 
-## Image quality adjustment
+### Image quality adjustment
 
 ```bash
 mogrify -brightness-contrast -50x+80 jackfaust_swanwick185.png
 ```
 
-# OCR
+## OCR
 
-## Single page
+### Single page
 
 ```bash
 tesseract book_page1.png stdout -l eng
 tesseract book_page2.png outtext -l eng
 ```
  
-## OCR script
+### OCR script
 
 ```bash
 for i in *.png ; do tesseract $i $i.txt -l eng; done;
 ```
 
-# Other commands
+## Other commands
 
-## PS TO PDF
+### PS TO PDF
 
 ```bash
 ps2pdf directory.ps 
 ```
 
-## Images to PDF
+### Images to PDF
 
 ```bash
 convert *.jpg book.pdf
 ```
 
-## PDF TO IMAGES
+### PDF TO IMAGES
 
 ```bash
 pdfimages -j /home/amarcinkowski/Documents/SampleWithImages.pdf /home/amarcinkowski/Documents/ExtractedImages/image
