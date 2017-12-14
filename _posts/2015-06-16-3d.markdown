@@ -7,7 +7,7 @@ categories: WSZ
 
 Wojewódzki Szpital Zespolony w 3D:
 
-[//]: # (* [Pełnoekranowa animacja szpitala][szpital] - szpital w trójwymiarze)
+[//]: # ([Pełnoekranowa animacja szpitala][szpital] - szpital w trójwymiarze)
 * Pełnoekranowa animacja szpitala - szpital w trójwymiarze
 
 [szpital]:    http://amarcinkowski.github.io/3d.html
